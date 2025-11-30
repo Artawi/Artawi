@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Alex 😼</h1>
+<h1 align="center"> Hi, 😼</h1>
 <h3 align="center">🐈New to everything still🐈</h3>
 
 <p align="center"> Just trying to learn something new </p>
